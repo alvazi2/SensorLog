@@ -3,3 +3,8 @@
 
 # Ignore graphics
 *.png
+
+# Ignore Jupyter specific data
+.ipynb_checkpoints
+.DS_Store
+
