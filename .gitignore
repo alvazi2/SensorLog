@@ -9,3 +9,6 @@
 */.ipynb_checkpoints/*
 .DS_Store
 
+# Ignore aux file folders
+sensor_logs
+graphs
